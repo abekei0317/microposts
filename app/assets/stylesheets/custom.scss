@@ -194,18 +194,20 @@ span.picture {
 
 .user_followings {
     list-style-type: none;
-    margin: 70px 0;
+    margin: 10px 0;
+    float: left;
     .name {
-        font-size: 30px;
-        padding-top: px;
+        font-size: 20px;
+        float: right;
     }
 }
 
 .user_followers {
     list-style-type: none;
-    margin: 70px 0;
+    margin: 10px 0;
+    float: left;
     .name {
-        font-size: 30px;
-        padding-top: px;
+        font-size: 20px;
+        float: right;
     }
 }
