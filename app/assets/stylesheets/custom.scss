@@ -189,3 +189,21 @@ span.picture {
         border: 0;
     }
 }
+
+/* followings */
+
+.user_followings {
+    list-style-type: none;
+    margin: 70px 0;
+    .name {
+        font-size: 20px;
+    }
+}
+
+.user_followers {
+    list-style-type: none;
+    margin: 70px 0;
+    .name {
+        font-size: 20px;
+    }
+}
